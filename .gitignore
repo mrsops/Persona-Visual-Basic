@@ -1,0 +1,14 @@
+
+\.vs/gestionPersonas/v15/
+
+gestionPersonas\.sln
+
+*.config
+
+gestionPersonas/gestionPersonas\.vbproj
+
+gestionPersonas/gestionPersonas\.vbproj\.user
+
+gestionPersonas/My Project/
+
+gestionPersonas/obj/Debug/
