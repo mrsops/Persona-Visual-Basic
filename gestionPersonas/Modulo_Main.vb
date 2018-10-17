@@ -1,7 +1,7 @@
-﻿Module Module1
+﻿Module Modulo_Main
 
 	Sub Main()
-		Dim prueba = New Persona()
+
 	End Sub
 
 

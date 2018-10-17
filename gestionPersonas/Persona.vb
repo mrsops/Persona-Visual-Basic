@@ -44,8 +44,19 @@
 		Else
 			Return False
 		End If
-
 	End Function
+
+	Public Function toString() As String
+		Return "Nombre: " & Me.nombre & " Dni: " & Me.dni & " Sexo: " & Me.sexo & " Edad: " & Me.edad & " Peso: " & Me.peso & " Altura: " & altura
+	End Function
+
+	Public Function comprobarSexo() As Char
+		If (Me.sexo = "Hombre" Or Me.sexo = "hombre" Or Me.sexo = "H" Or Me.sexo = "h") Then
+			Return "h"
+		End If
+	End Function
+
+
 
 
 
